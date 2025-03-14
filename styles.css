@@ -4,15 +4,32 @@ header {
     color: #d8e3da;
     display: flex;
     flex-direction: row;
+    margin: 0;
 }
 
 #logo{
     width: 50px;
     display: inline-block;
     
+
+    
 }
 #headerMessage{
     display: inline-block;
-    text-align: center;
+   
+}
+nav{
+    background-color:#753b6c;
+    color: #e3d8e2;
+    margin: 0;
+}
+ul{
+    display: flex;
+    flex-direction: row;
     
+}
+.navLink{
+    margin-left: 25px;
+    
+
 }
