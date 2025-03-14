@@ -1,0 +1,18 @@
+
+header {
+    background-color: #3b7544;
+    color: #d8e3da;
+    display: flex;
+    flex-direction: row;
+}
+
+#logo{
+    width: 50px;
+    display: inline-block;
+    
+}
+#headerMessage{
+    display: inline-block;
+    text-align: center;
+    
+}
